@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978734825912",
+    "project_id": "chatakudong-43b8c",
+    "storage_bucket": "chatakudong-43b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978734825912:android:b8f64aa59fb54e6e754f4d",
+        "android_client_info": {
+          "package_name": "com.example.chatakudong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978734825912-fr95bavj6dkpc4g9f7f196m8d10sebqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitMz2mXmtsZSfbzr84S3UEXR8s_pCFoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978734825912-fr95bavj6dkpc4g9f7f196m8d10sebqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
